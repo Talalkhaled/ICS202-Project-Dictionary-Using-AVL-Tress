@@ -70,9 +70,6 @@ public class Dictionary {
 
     public String[] findSimilar (String s) {
         return dict.iterativePreorder(s);
-<<<<<<< HEAD
-=======
-}
->>>>>>> 35aa03436fdf1e1ca26f8fac0dfabbd577ac69d7
+
 }
 }
